@@ -2,6 +2,8 @@
 
 Alpine trip planning briefs served via GitHub Pages.
 
+**View the site:** [https://benmorganio.github.io/trip-briefs/](https://benmorganio.github.io/trip-briefs/)
+
 ## Current Briefs
 
 - [Asulkan Traverse](./index.html) - Sept 7-8, 2026 - Glacier National Park, Rogers Pass, BC
