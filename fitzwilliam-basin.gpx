@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Littlebird Trip Briefs">
+  <metadata>
+    <name>Fitzwilliam Basin Approach with Bucephalus, Frontier, and Kataka</name>
+    <desc>Reference track for Mount Robson Provincial Park. Approach trail is approximate; scramble routes are point-to-point only. Verify on the ground.</desc>
+    <time>2026-09-03T20:00:00Z</time>
+  </metadata>
+  <wpt lat="52.8608" lon="-118.5347">
+    <name>Trailhead</name>
+    <desc>Yellowhead Lake boat launch parking. Across Hwy 16 from boat launch sign. Self-register at kiosk ~1.3 km along pipeline ROW.</desc>
+    <ele>1110</ele>
+  </wpt>
+  <wpt lat="52.8416" lon="-118.4883">
+    <name>Rockingham Creek Camp</name>
+    <desc>7.2 km from trailhead. 6 tent pads, pit toilet, bear pole. Water from creek.</desc>
+    <ele>1700</ele>
+  </wpt>
+  <wpt lat="52.8350" lon="-118.4500">
+    <name>Alpine Wilderness Camp</name>
+    <desc>~13.5 km from trailhead at north end of first alpine lake. 3 tent pads, bear pole, open pit toilet. No fires.</desc>
+    <ele>2100</ele>
+  </wpt>
+  <wpt lat="52.83056" lon="-118.45694">
+    <name>Mount Fitzwilliam</name>
+    <desc>2902 m. Loose, rotten rock on upper mountain. Class 2-3 scrambling. Helmet strongly recommended.</desc>
+    <ele>2902</ele>
+  </wpt>
+  <wpt lat="52.82226" lon="-118.44476">
+    <name>Bucephalus Peak</name>
+    <desc>2763 m. More stable rock than Fitzwilliam. ~45 min from Fitzwilliam/Bucephalus col.</desc>
+    <ele>2763</ele>
+  </wpt>
+  <wpt lat="52.81582" lon="-118.43031">
+    <name>Frontier Peak</name>
+    <desc>2682 m. NW Ridge from Bucephalus/Frontier col is Class 2 scrambling over boulder field.</desc>
+    <ele>2682</ele>
+  </wpt>
+  <wpt lat="52.831885" lon="-118.397097">
+    <name>Kataka Mountain</name>
+    <desc>2679 m. East side of Fitzwilliam Basin. Limited route beta; exploratory scramble from basin.</desc>
+    <ele>2679</ele>
+  </wpt>
+  <trk>
+    <name>Approach Trail (Approximate)</name>
+    <trkseg>
+      <trkpt lat="52.8608" lon="-118.5347"><ele>1110</ele></trkpt>
+      <trkpt lat="52.8580" lon="-118.5300"><ele>1150</ele></trkpt>
+      <trkpt lat="52.8550" lon="-118.5250"><ele>1200</ele></trkpt>
+      <trkpt lat="52.8520" lon="-118.5200"><ele>1250</ele></trkpt>
+      <trkpt lat="52.8500" lon="-118.5150"><ele>1300</ele></trkpt>
+      <trkpt lat="52.8480" lon="-118.5100"><ele>1350</ele></trkpt>
+      <trkpt lat="52.8460" lon="-118.5050"><ele>1400</ele></trkpt>
+      <trkpt lat="52.8440" lon="-118.5000"><ele>1450</ele></trkpt>
+      <trkpt lat="52.8420" lon="-118.4950"><ele>1500</ele></trkpt>
+      <trkpt lat="52.8416" lon="-118.4883"><ele>1700</ele></trkpt>
+      <trkpt lat="52.8400" lon="-118.4850"><ele>1750</ele></trkpt>
+      <trkpt lat="52.8390" lon="-118.4800"><ele>1800</ele></trkpt>
+      <trkpt lat="52.8380" lon="-118.4750"><ele>1850</ele></trkpt>
+      <trkpt lat="52.8370" lon="-118.4700"><ele>1900</ele></trkpt>
+      <trkpt lat="52.8360" lon="-118.4650"><ele>1950</ele></trkpt>
+      <trkpt lat="52.8350" lon="-118.4600"><ele>2000</ele></trkpt>
+      <trkpt lat="52.8350" lon="-118.4550"><ele>2050</ele></trkpt>
+      <trkpt lat="52.8350" lon="-118.4500"><ele>2100</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Fitzwilliam Scramble (Point-to-Point)</name>
+    <trkseg>
+      <trkpt lat="52.8350" lon="-118.4500"><ele>2100</ele></trkpt>
+      <trkpt lat="52.8330" lon="-118.4520"><ele>2300</ele></trkpt>
+      <trkpt lat="52.8320" lon="-118.4540"><ele>2500</ele></trkpt>
+      <trkpt lat="52.83056" lon="-118.45694"><ele>2902</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Bucephalus Ridge (Point-to-Point)</name>
+    <trkseg>
+      <trkpt lat="52.83056" lon="-118.45694"><ele>2902</ele></trkpt>
+      <trkpt lat="52.8270" lon="-118.4520"><ele>2700</ele></trkpt>
+      <trkpt lat="52.8240" lon="-118.4480"><ele>2750</ele></trkpt>
+      <trkpt lat="52.82226" lon="-118.44476"><ele>2763</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Frontier NW Ridge (Point-to-Point)</name>
+    <trkseg>
+      <trkpt lat="52.82226" lon="-118.44476"><ele>2763</ele></trkpt>
+      <trkpt lat="52.8200" lon="-118.4400"><ele>2700</ele></trkpt>
+      <trkpt lat="52.8180" lon="-118.4350"><ele>2680</ele></trkpt>
+      <trkpt lat="52.81582" lon="-118.43031"><ele>2682</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Kataka Scramble (Point-to-Point)</name>
+    <trkseg>
+      <trkpt lat="52.8350" lon="-118.4500"><ele>2100</ele></trkpt>
+      <trkpt lat="52.8330" lon="-118.4300"><ele>2400</ele></trkpt>
+      <trkpt lat="52.8320" lon="-118.4100"><ele>2600</ele></trkpt>
+      <trkpt lat="52.831885" lon="-118.397097"><ele>2679</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
