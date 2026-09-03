@@ -13,7 +13,7 @@ body::before{content:'';position:fixed;inset:0;background-image:url("data:image/
 .container{max-width:900px;margin:0 auto;padding:0 24px}
 @media(max-width:640px){.container{padding:0 16px}}
 header{padding:64px 0 40px;border-bottom:1px solid var(--border);position:relative}
-header::after{content:'';position:absolute;bottom:-1px;left:0;width:120px;height:1px;background:var(--accent)}
+header::after{content:'absolute;bottom:-1px;left:0;width:120px;height:1px;background:var(--accent)}
 .eyebrow{font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:0.15em;text-transform:uppercase;color:var(--accent);margin-bottom:14px;display:flex;align-items:center;gap:10px}
 .eyebrow::before{content:'';width:6px;height:6px;border-radius:50%;background:var(--accent);box-shadow:0 0 10px var(--accent-glow);animation:pulse 2.5s ease-in-out infinite}
 @keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:0.5;transform:scale(0.85)}}
@@ -65,4 +65,3 @@ footer p{font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--text-
 <p>Generated with AI</p>
 </footer>
 </body>
-</html>
